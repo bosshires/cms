@@ -99,7 +99,7 @@ export default function AdminReleases() {
                 </Select>
               </TableCell>
               <TableCell>
-                <Button variant="outline" onClick={() => window.open(`/admin/releases/${release.id}`, "_blank")}>
+                <Button variant="outline" onClick={() => globalThis.open(`/admin/releases/${release.id}`, "_blank")}>
                   View Details
                 </Button>
               </TableCell>
