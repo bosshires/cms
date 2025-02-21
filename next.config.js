@@ -44,5 +44,11 @@ function mergeConfig(nextConfig, userConfig) {
     }
   }
 }
-
+module.exports = {
+  basePath: '/cms',
+  assetPrefix: '/cms/',
+  images: {
+    unoptimized: true,
+  },
+};
 export default nextConfig
