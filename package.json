@@ -7,6 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
+    {
+  "homepage": "https://bosshires.github.io/cms"
+  }
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
