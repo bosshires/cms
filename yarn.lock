@@ -1,0 +1,18 @@
+# THIS IS AN EXAMPLE FOR DEMONSTRATION PURPOSES
+# It is recommended to use `yarn install` to generate this file automatically.
+
+"@hookform/resolvers@^3.9.1":
+  version "3.9.1"
+  resolved "https://registry.yarnpkg.com/@hookform/resolvers/-/resolvers-3.9.1.tgz#hash"
+  integrity sha512-hash
+  dependencies:
+    tslib "^2.3.0"
+
+"@radix-ui/react-accordion@^1.2.2":
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/@radix-ui/react-accordion/-/react-accordion-1.2.2.tgz#hash"
+  integrity sha512-hash
+  dependencies:
+    tslib "^2.3.0"
+
+# More dependencies will follow the same structure...
